@@ -1,25 +1,18 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
+  name: "One Piece"
+  tagline: "Stay Focused, Stay Foolish, Stay Hungry"
+  
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: "Journals"
+    details: "Record daily life experiences, mainly including skills and insights."
+    link: "/journal"
+  - title: "Health"
+    details: "Include physical and mental health, with physical health covering exercise and diet, and mental well-being encompassing reading."
+    link: "/health"
+  - title: "Toolbox"
+    details: "Useful tools found in daily life, including various types such as AI, SEO, and more."
+    link: "/toolbox"
 ---
-
