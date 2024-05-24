@@ -16,12 +16,12 @@ npm install -D tailwindcss postcss autoprefixer
     "tailwindcss": "^3.4.3",
     "vitepress": "^1.2.2"
   },
-  "postcss": {
-    "plugins": {
-      "tailwindcss": {},
-      "autoprefixer": {}
-    }
-  }
+  "postcss": {             // [!code focus]
+    "plugins": {           // [!code focus]
+      "tailwindcss": {},   // [!code focus]
+      "autoprefixer": {}   // [!code focus]
+    }                      // [!code focus]
+  }                        // [!code focus]
 }
 ```
 :::
