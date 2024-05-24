@@ -10,10 +10,11 @@ export default defineConfig({
     hostname: 'https://monojson.tech'
   },
   themeConfig: {
+    logo: { src: '/images/logo.png', width: 24, height: 24 },
     nav: [
       { text: '🏠 Home', link: '/' },
-      { text: '📚 Journal', link: '/journal' },
-      { text: '❤️ Health', link: '/health' },
+      { text: '📚 Journals', link: '/journals/adonis-captcha-guard' },
+      { text: '❤️ Health', link: '/health/happy-running' },
       { text: '🧰 Toolbox', link: '/toolbox' },
       { text: '📺 TV Shows', link: '/tv-shows' }
     ],
@@ -23,17 +24,25 @@ export default defineConfig({
       copyright: '© 2024 Monojson'
     },
     sidebar: {
-      '/': [
+      '/journals': [
         {
-          text: 'Guide',
+          text: 'Skills',
           items: [
-            { text: 'Introduction', link: '/guide/' },
-            { text: 'Getting Started', link: '/guide/getting-started' },
-            { text: 'Configuration', link: '/guide/configuration' },
-            { text: 'Customization', link: '/guide/customization' },
-            { text: 'Plugins', link: '/guide/plugins' },
-            { text: 'Deploy', link: '/guide/deploy' }
+            {
+              text: 'Adonis Captcha Guard',
+              link: '/journals/adonis-captcha-guard'
+            },
+            {
+              text: 'Vitepress with Tailwind',
+              link: '/journals/vitepress-with-tailwind'
+            }
           ]
+        }
+      ],
+      '/health': [
+        {
+          text: 'Running',
+          items: [{ text: 'Happy Running', link: '/health/happy-running' }]
         }
       ]
     },
