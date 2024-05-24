@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: ' ',
   description: '',
@@ -10,7 +9,7 @@ export default defineConfig({
     hostname: 'https://monojson.tech'
   },
   themeConfig: {
-    logo: { src: '/images/logo.png', width: 24, height: 24 },
+    logo: { src: '/logo.png', width: 24, height: 24 },
     nav: [
       { text: '🏠 Home', link: '/' },
       { text: '📚 Journals', link: '/journals/adonis-captcha-guard' },
