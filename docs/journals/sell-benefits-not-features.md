@@ -1,6 +1,8 @@
 
 # Always Sell Benefits Not Features
 
+![steve jobs](/images/steve.png)
+
 The phrase "Always sell benefits, not features" is a common principle in sales and marketing. It emphasizes the importance of focusing on how a product or service can improve the customer's life, rather than just listing its technical specifications or characteristics. 
 
 
