@@ -12,7 +12,7 @@ export default defineConfig({
     logo: { src: '/logo.png', width: 24, height: 24 },
     nav: [
       { text: '🏠 Home', link: '/' },
-      { text: '📚 Journals', link: '/journals/adonis-captcha-guard' },
+      { text: '📚 Journals', link: '/journals/sell-benefits-not-features' },
       { text: '❤️ Health', link: '/health/happy-running' },
       { text: '🧰 Toolbox', link: '/toolbox' },
       { text: '📺 TV Shows', link: '/tv-shows' }
@@ -25,6 +25,15 @@ export default defineConfig({
     sidebar: {
       '/journals': [
         {
+          text: 'Insights',
+          items: [
+            {
+              text: 'Always Sell Benefits Not Features',
+              link: '/journals/sell-benefits-not-features'
+            }
+          ]
+        },
+        {
           text: 'Skills',
           items: [
             {
@@ -32,7 +41,7 @@ export default defineConfig({
               link: '/journals/adonis-captcha-guard'
             },
             {
-              text: 'Vitepress with Tailwind',
+              text: 'Vitepress With Tailwind',
               link: '/journals/vitepress-with-tailwind'
             }
           ]
