@@ -20,7 +20,7 @@ The phrase "Always sell benefits, not features" is a common principle in sales a
 **Differentiation**: Benefits help differentiate your product from competitors by showing unique advantages that matter to the customer.
 
 
-### Examples of Feature vs. Benefit
+### Examples of Feature vs Benefit
 **Feature**: The car has a fuel efficiency of 30 miles per gallon.
 
 **Benefit**: Save money on gas and reduce your environmental footprint with our highly fuel-efficient car.
