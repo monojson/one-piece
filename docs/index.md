@@ -14,5 +14,5 @@ features:
     link: "/health/happy-running"
   - title: "Toolbox"
     details: "Useful tools found in daily life, including various types such as AI, SEO, and more."
-    link: "/toolbox"
+    link: "/toolbox/seo"
 ---

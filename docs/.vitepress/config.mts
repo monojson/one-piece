@@ -14,7 +14,7 @@ export default defineConfig({
       { text: '🏠 Home', link: '/' },
       { text: '📚 Journals', link: '/journals/sell-benefits-not-features' },
       { text: '❤️ Health', link: '/health/happy-running' },
-      { text: '🧰 Toolbox', link: '/toolbox' },
+      { text: '🧰 Toolbox', link: '/toolbox/seo' },
       { text: '📺 TV Shows', link: '/tv-shows' }
     ],
     socialLinks: [{ icon: 'github', link: 'https://github.com/monojson' }],
