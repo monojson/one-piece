@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: ' ',
-  description: '',
+  title: 'Mind, Body and Tools',
+  description: 'Welcome to One Piece - a place for Personal Reflections, Health Tips, and Practical Toolbox',
   lastUpdated: true,
   base: '/',
   sitemap: {
@@ -10,6 +10,7 @@ export default defineConfig({
   },
   themeConfig: {
     logo: { src: '/logo.png', width: 24, height: 24 },
+    siteTitle: false,
     nav: [
       { text: '🏠 Home', link: '/' },
       { text: '📚 Journals', link: '/journals/sell-benefits-not-features' },
@@ -59,6 +60,7 @@ export default defineConfig({
     }
   },
   head: [
+    ['link', { rel: 'icon', href: '/logo.png' }],
     [
       'script',
       {

@@ -1,4 +1,4 @@
-# SEO Tools Box
+# SEO Toolbox
 
 ### Online Tools
 - [Semrush](https://www.semrush.com/) -> All-in-one marketing toolkit for digital marketing professionals, offering solutions for SEO, PPC, content, social media and competitive research.
