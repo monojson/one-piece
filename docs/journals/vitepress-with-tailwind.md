@@ -1,3 +1,8 @@
+---
+title: How to build your own blog with Vitepress and TailwindCSS
+description: some steps to build your own blog with Vitepress and TailwindCSS
+---
+
 
 # Vitepress with Tailwind
 

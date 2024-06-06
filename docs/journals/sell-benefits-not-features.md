@@ -1,3 +1,8 @@
+---
+title: Why Selling Benefits Outshines Features 
+description: a guide to effective sales and marketing.
+---
+
 
 # Always Sell Benefits Not Features
 
