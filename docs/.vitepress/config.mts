@@ -75,6 +75,14 @@ export default defineConfig({
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-G6SJGM4YX6');`
+    ],
+    [
+      'script',
+      {
+        async: '',
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2875049355033239',
+        crossorigin: 'anonymous'
+      }
     ]
   ]
 })
