@@ -14,7 +14,7 @@ export default defineConfig({
     nav: [
       { text: '🏠 Home', link: '/' },
       { text: '📚 Journals', link: '/journals/sell-benefits-not-features' },
-      { text: '❤️ Health', link: '/health/happy-running' },
+      { text: '❤️ Health', link: '/health/relaxium-sleep' },
       { text: '🧰 Toolbox', link: '/toolbox/seo' },
       { text: '📺 TV Shows', link: '/tv-shows' }
     ],
@@ -50,8 +50,8 @@ export default defineConfig({
       ],
       '/health': [
         {
-          text: 'Running',
-          items: [{ text: 'Happy Running', link: '/health/happy-running' }]
+          text: 'Advices',
+          items: [{ text: 'Get A Relaxium Sleep', link: '/health/relaxium-sleep' }]
         }
       ]
     },
