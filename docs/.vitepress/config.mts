@@ -44,6 +44,10 @@ export default defineConfig({
             {
               text: 'Vitepress With Tailwind',
               link: '/journals/vitepress-with-tailwind'
+            },
+            {
+              text: 'How To Build Your Backlinks',
+              link: '/journals/how-to-build-your-backlinks'
             }
           ]
         }
