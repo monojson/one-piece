@@ -20,3 +20,8 @@ description: A collection of SEO tools and resources for webmasters and SEO prof
 - [Semrush Blog](https://www.semrush.com/blog/) -> The SEO, SEM, PPC and Content Marketing Blog.
 - [Google Search Central Blog](https://developers.google.com/search/blog) -> The official blog of Google Search Central, a community of webmasters and developers who are building on the Google platform.
 - [FirstPageSage Blog](https://firstpagesage.com/seo-blog/) -> A blog dedicated to SEO, SEM, PPC, and content marketing.
+
+# AI Image Toolbox
+
+### Online Tools
+- [Flux AI Image Generator](https://flux-ai-generator.com/) -> Discover Flux AI, the next generation of text-to-image generation technology powered by advanced deep learning models with over 12 billion parameters.
